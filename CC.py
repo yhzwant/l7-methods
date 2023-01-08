@@ -27,7 +27,7 @@ print ('''
 Version 3.6 (2020/12/19)
 							C0d3d by L330n123
 ┌─────────────────────────────────────────────┐
-│        Tos: Don't attack .gov website       │
+│        Tos: please attack .gov website      │
 ├─────────────────────────────────────────────┤
 │                 New stuff:                  │
 │          [+] Optimization                   │
